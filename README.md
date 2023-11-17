@@ -44,6 +44,14 @@
 </div>
 <br>
 
+
+###
+
+<h3 align="left">📚 My Contact</h3>
+- LinkedIn : [Muchammad Rizky Solehudin]
+
+[Muchammad Rizky Solehudin]: <https://www.linkedin.com/in/muchammad-rizky-solehudin/>
+
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
