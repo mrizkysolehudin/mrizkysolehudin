@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello, I'm Rizky👋</h1>
+<h1 align="center">Hello, I'm Rizky, a Fullstack Web & Mobile Developer👋</h1>
 
 ###
 
@@ -8,6 +8,7 @@
 ###
 
 <p align="left">
+  🚀 Passionate about Fullstack Development<br>
   🛠 Proficient in React Native, ReactJS, NextJS, NodeJS, ExpressJS<br>
   🔥 Currently expanding my skills in PHP and Laravel<br>
   ⚡ Portfolio Highlights: Successfully delivered results in over 6 diverse projects.
@@ -38,8 +39,15 @@
 <img width="12" />
 </div>
 
+###
 
+<h3 align="left">📩 My Contact </h3> 
 
+LinkedIn: [Muchammad Rizky Solehudin](https://www.linkedin.com/in/muchammad-rizky-solehudin/) 
 
 <br>
+
+<p align="center">
+  🌟 Let's build something amazing together! 🌟
+</p>
 
