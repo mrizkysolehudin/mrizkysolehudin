@@ -14,7 +14,7 @@
 
 <p align="left">
   🛠 Proficient in React Native, ReactJS, NextJS, NodeJS, ExpressJS<br>
-  📚 Currently expanding my skills in PHP and Laravel<br>
+  🔥 Currently expanding my skills in PHP and Laravel<br>
   ⚡ Portfolio Highlights: Successfully delivered results in over 6 diverse projects.
 </p>
 
@@ -42,15 +42,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" height="40" alt="Laravel logo" />
 <img width="12" />
 </div>
+
+
+
+
 <br>
-
-
-###
-
-<h3 align="left">📚 My Contact</h3>
-- LinkedIn : [Muchammad Rizky Solehudin]
-
-[Muchammad Rizky Solehudin]: <https://www.linkedin.com/in/muchammad-rizky-solehudin/>
 
 ###
 
