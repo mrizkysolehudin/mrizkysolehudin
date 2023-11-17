@@ -1,8 +1,3 @@
-<div align="center">
-  <img height="150" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*ZgVJd9UuBQ-Tc8vpx69uaw.png" style="border-radius: 50%;" />
-</div>
-
-###
 
 <h1 align="center">Hello, I'm Rizky👋</h1>
 
