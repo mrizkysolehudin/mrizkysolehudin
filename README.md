@@ -10,7 +10,7 @@
 <p align="left">
   🚀 Passionate about Fullstack Development<br>
   🛠 Proficient in React Native, ReactJS, NextJS, NodeJS, ExpressJS<br>
-  🔥 Currently expanding my skills in PHP and Laravel<br>
+  🔥 Currently expanding my skills in PHP, Laravel, and Vue<br>
   ⚡ Portfolio Highlights: Successfully delivered results in over 6 diverse projects
 </p>
 
@@ -36,6 +36,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP logo" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" height="40" alt="Laravel logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js logo" />
 <img width="12" />
 </div>
 
