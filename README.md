@@ -9,7 +9,7 @@
 
 <p align="left">
   🚀 Passionate about Fullstack Development<br>
-  🛠 Proficient in React Native, ReactJS, NextJS, NodeJS, ExpressJS<br>
+  🛠 Proficient in ReactJS, NextJS, NodeJS, ExpressJS, React Native<br>
   🔥 Currently expanding my skills in PHP, Laravel, and Vue<br>
   ⚡ Portfolio Highlights: Successfully delivered results in over 6 diverse projects
 </p>
