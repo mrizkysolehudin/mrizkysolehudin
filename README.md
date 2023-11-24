@@ -9,7 +9,7 @@
 
 <p align="left">
   🚀 Passionate about Fullstack Development<br>
-  🛠 Skills: HTML, CSS, JavaScript, jQuery, TypeScript, ReactJS, NextJS, NodeJS, ExpressJS, React Native, VueJS, PHP, Laravel<br>
+  🛠 Skills: HTML, CSS, JavaScript, jQuery, TypeScript, ReactJS, NextJS, NodeJS, ExpressJS, React Native, VueJS, PHP, Laravel, and more.<br>
   🔥 Currently expanding my skills in Laravel<br>
   ⚡ Portfolio Highlights: Successfully delivered results in over 6 diverse projects
 </p>
